@@ -1,0 +1,6 @@
+wall wall gate_1 wall wall wall
+wall ball_1 empty empty empty wall
+wall empty empty empty empty gate_2
+wall empty empty empty empty wall
+wall wall empty ball_2 empty wall
+empty wall wall wall wall wall
